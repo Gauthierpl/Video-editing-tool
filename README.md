@@ -3,7 +3,7 @@
 > **Tool inspired from Transformice's UI**  
 > Trim, compress and crop your videos.
 
-To download latest version, click [me](https://github.com/Gauthierpl/Video-editing-tool/releases)
+To download latest version, click [here](https://github.com/Gauthierpl/Video-editing-tool/releases)
 
 <img width="1585" height="1199" alt="image" src="https://github.com/user-attachments/assets/c9b8203d-7412-444e-b69f-8dfe152a0e4d" />
 
